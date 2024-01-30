@@ -1,0 +1,1 @@
+# sonarcloud-auto-scan-example
