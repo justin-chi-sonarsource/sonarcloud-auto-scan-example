@@ -1,1 +1,1 @@
-# sonarcloud-auto-scan-example
+# sonarcloud-auto-scan-example on features
